@@ -1,0 +1,291 @@
+@media screen and (max-width:767px){
+
+    /* .div19 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    } 
+    
+    .div19-1{
+        display: none;
+        
+    }
+    .div19-2{
+        display: none;
+        margin: 300px;
+    }
+    .div19-3{
+        display: none;
+    }
+    .div19-4{
+        display: none;
+    } */
+    
+    /* .div20 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    } */
+    .div1{
+        /* margin-left: 50px; */
+    }
+    .nav-img{
+        
+        margin-top: 30px;
+        margin-left: 200px;
+    }
+    .link{
+        display: none;
+
+    }
+    .sub{
+        display: none;
+    }
+    .b2{
+        display: none;
+    }
+    .div3-1{
+        width: 100%;
+        font-size: 45px;
+        
+    }
+    .div4{
+        width: 100%;
+        text-align: center;
+    }
+    .div5{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .b3{
+        height: 50px;
+        width: 100%;
+    }
+    .div5-1{
+        height: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    .div6-1{
+        height: 300px;
+        width: 100%;
+        
+    }
+    .div7{
+        width: 100%;
+        text-align: center;
+    }
+   .div8{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    gap: 20px;
+    
+   }
+   .div9{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .div9-1{
+        width: 100%;
+        height: 350px;
+        margin-left: 10px;
+   }
+   *{
+    overflow-x: hidden;
+}
+   .div10-1{
+    
+    width: 95%;
+    text-align: center;
+
+   }
+   .p1{
+    text-align: center;
+    width: 100%;
+    /* margin-left: 50px; */
+   }
+
+   .p2{
+    text-align: center;
+    width: 100%;
+    /* margin-left: 50px; */
+   }
+   .div11{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .div11-1{
+    margin-left:150px ;
+   }
+   .div12{
+    display: none;
+   }
+   .div13{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .div13-a{
+    width: 100%;
+    text-align: center;
+   }
+   .image-3{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    margin-left: 0px;
+   }
+   .div17-a{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+   }
+   .border-1{
+    border-bottom:solid 10px #794CFF;
+   }
+   .div17-b{
+    display: none;
+   }
+   .div17-c{
+    display: none;
+   }
+   .div16{
+    display: none;
+   }
+   
+   .div18{
+       display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        height: 250px;
+        width: 100%;
+        margin-left: 10px;
+        border-radius: none;
+     }
+     .div18-2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+     .div18-img2{
+        margin-top: 10px;
+     }
+  
+    
+
+    
+  
+  /* .div18-2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 50px;
+  } */
+  .footer{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .ft-p{
+    display: none;
+  }
+  .ft-1{
+    color: white;
+    margin-left: 20px;
+}
+.ft-1-1{
+    color: white;
+    margin-left: 200px;
+}
+.ft-1-2{
+    color: white;
+    margin-left: 217px;
+}
+.ft-1-3{
+    color: white;
+    margin-left: 239px;
+}
+.ft-1-4{
+    color: white;
+    margin-left:200px;
+}
+.ft-img{
+    margin-left: 20px;
+    height: 45px;
+    width: 150px;
+    margin-top: 10px;
+}
+.ft-img2{
+    margin-left: 20px;
+    height: 45px;
+    width: 150px;
+    margin-top: 10px;
+}
+.one{
+    margin-top: -50px;
+}
+.two{
+    margin-top: -50px;
+}
+.three{
+    margin-top: -50px;
+}
+.four{
+    margin-top: -50px;
+}
+.hr1{
+    width: 100%;
+}
+.div20{
+    height:400px;
+    width: 100%;
+
+}
+.div20-1{
+    margin-left: -130px;
+}
+.div20-1-1{
+    display: none;
+}
+.div20-1-2{
+    display: none;
+}
+.div20-1-3{
+    display: none;
+}
+.div20-1-4{
+    display: none;
+}
+                
+}
+@media screen and (min-width:1024px) {
+    .ft-1-1{
+        display: none;
+    }
+    .ft-1-2{
+        display: none;
+    }
+    .ft-1-3{
+        display: none;
+    }
+    .ft-1-4{
+        display: none;
+    }
+   .nav-img{
+    display: none;
+   }
+    
+    
+}
